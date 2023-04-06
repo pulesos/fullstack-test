@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\2 Программирование\\ANGULAR\\FullStack\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {}
+    "D:\\work\\FullStack\\fullstack-test\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\2 Программирование\\ANGULAR\\FullStack\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {
+    "D:\\work\\FullStack\\fullstack-test\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\2 Программирование\\ANGULAR\\FullStack\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+        "projectUniqueName": "D:\\work\\FullStack\\fullstack-test\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
         "projectName": "FullStack.API",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\2 Программирование\\ANGULAR\\FullStack\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\2 Программирование\\ANGULAR\\FullStack\\FullStack.API\\FullStack.API\\FullStack.API\\obj\\",
+        "projectPath": "D:\\work\\FullStack\\fullstack-test\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+        "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\FullStack\\fullstack-test\\FullStack.API\\FullStack.API\\FullStack.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
